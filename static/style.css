@@ -1,0 +1,9 @@
+#strength-bar.bg-danger {
+  background-color: #dc3545 !important;
+}
+#strength-bar.bg-warning {
+  background-color: #ffc107 !important;
+}
+#strength-bar.bg-success {
+  background-color: #28a745 !important;
+}
